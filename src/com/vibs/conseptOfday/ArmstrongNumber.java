@@ -61,7 +61,6 @@ public class ArmstrongNumber {
 	        if(orig == result){
 	            return true;
 	        }
-	      
 	        return false;
 	    } 
 */

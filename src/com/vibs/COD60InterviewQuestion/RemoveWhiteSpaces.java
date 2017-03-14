@@ -25,7 +25,7 @@ public class RemoveWhiteSpaces {
 	                sb.append(strArray[i]);
 	            }
 	        }
-	 
+	
 	        System.out.println(sb);           //Output : CoreJavajspservletsjdbcstrutshibernatespring
 	    }
 	}

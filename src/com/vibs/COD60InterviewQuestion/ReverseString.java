@@ -36,7 +36,7 @@ public class ReverseString {
 	         {
 	                return str;
 	         }
-	 
+	         //System.out.println(str.substring(1));
 	         return recursiveMethod(str.substring(1)) + str.charAt(0);
 	    }
 

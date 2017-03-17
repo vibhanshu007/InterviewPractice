@@ -21,7 +21,5 @@ public class TestClass1 {
 		else
 			System.out.println("NO");
 
-
-
 	}
 }
